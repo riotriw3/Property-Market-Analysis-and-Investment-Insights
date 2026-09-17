@@ -230,7 +230,7 @@ The shortlist should be treated as an initial screening result and further evalu
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🛠️ Tools & Libraries
 
 - **Python**
 - **Pandas** – Data manipulation and cleaning
