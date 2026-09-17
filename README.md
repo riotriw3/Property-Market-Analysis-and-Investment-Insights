@@ -160,15 +160,11 @@ For example, location information may be represented at different levels, such a
 
 The analysis therefore recommends implementing standardized data formats, stronger data governance, and more detailed data documentation.
 
----
-
 ### 2. Property Price Differences
 
 The analysis indicates a tendency for property prices to be higher in **Jakarta**, while relatively lower prices were observed in **Bogor, Bekasi, and Depok** based on the analyzed dataset.
 
 This comparison was visualized using geographic and distribution-based visualizations.
-
----
 
 ### 3. Common Property Characteristics
 
@@ -185,8 +181,6 @@ The most frequently occurring property characteristics in the dataset were:
 
 Therefore, the most frequently occurring property profile in the dataset is a house with **60 m² land area, 36 m² building area, 2 bedrooms, 2 bathrooms, no garage, and 1 carport**.
 
----
-
 ### 4. Investment Screening
 
 To simulate a property investment scenario, the analysis applied predefined filters based on:
@@ -202,8 +196,6 @@ To simulate a property investment scenario, the analysis applied predefined filt
 The filtering process identified **37 properties** that met the defined criteria, with a combined listed price of approximately **Rp24.87 billion**.
 
 These properties were treated as potential candidates based on the defined screening criteria rather than as guaranteed profitable investments.
-
----
 
 ### 5. Property Price Distribution
 
@@ -248,13 +240,3 @@ The shortlist should be treated as an initial screening result and further evalu
 - **Geopy** – Geocoding
 - **Folium** – Geographic visualization
 - **Google Colab** – Development environment
-
----
-
-## 📂 Repository Structure
-
-```text
-Property-Market-Analysis-and-Investment-Insights/
-│
-├── CaseStudy01.ipynb
-└── README.md
